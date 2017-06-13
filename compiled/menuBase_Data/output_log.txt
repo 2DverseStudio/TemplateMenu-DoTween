@@ -1,0 +1,83 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: ATI Radeon 3000 Graphics (ID=0x9616)
+    Vendor:   ATI
+    VRAM:     1913 MB
+    Driver:   8.970.100.9001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\freak\OneDrive\Documentos\Unity\geoCards\compiled\menuBase_Data\Managed\System.dll (this message is harmless)
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.467324 ms
+mesma versao save
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ver save: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.837479 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.481591 ms (FindLiveObjects: 0.020388 ms CreateObjectMapping: 0.023477 ms MarkObjects: 0.425678 ms  DeleteObjects: 0.011429 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.371562 ms
+mesma versao save
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.360807 ms (FindLiveObjects: 0.021005 ms CreateObjectMapping: 0.025021 ms MarkObjects: 0.275239 ms  DeleteObjects: 0.038922 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401583 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.352157 ms (FindLiveObjects: 0.016681 ms CreateObjectMapping: 0.021623 ms MarkObjects: 0.306747 ms  DeleteObjects: 0.006487 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.566850 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.327753 ms (FindLiveObjects: 0.016063 ms CreateObjectMapping: 0.025330 ms MarkObjects: 0.244965 ms  DeleteObjects: 0.041085 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.399112 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.354629 ms (FindLiveObjects: 0.020079 ms CreateObjectMapping: 0.021932 ms MarkObjects: 0.305203 ms  DeleteObjects: 0.006487 ms)
+
+ver save: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2194 -> priority: 1 
+  Thread -> id: ed4 -> priority: 1 
+  Thread -> id: 1de8 -> priority: 1 
